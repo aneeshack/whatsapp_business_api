@@ -45,10 +45,10 @@ A registered WhatsApp Business Phone Number
 
 🛠️ Setup
 1. Clone the repo
-git clone https://github.com/your-username/whatsappIntegrate.git
-cd whatsappIntegrate
+2. https://github.com/aneeshack/whatsapp_business_api.git
+cd whatsapp
 
-2. Backend setup
+3. Backend setup
 cd backend
 npm install
 
