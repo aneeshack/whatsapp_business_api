@@ -19,7 +19,7 @@ Simple React UI for inputting recipient number and message.
 Securely uses environment variables for API credentials.
 
 📂 Project Structure
-whatsappIntegrate/
+whatsapp/
 │
 ├── backend/              # Express server
 │   ├── routes/whatsapp.js
