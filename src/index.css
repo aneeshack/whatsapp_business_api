@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* index.css */
+:root {
+  --brand-color: #647ffb;
+  --heading-font: 'Lateef', serif;
+  --secondary-font: 'Kumbh Sans', sans-serif;
+}
+
+body {
+  font-family: var(--heading-font);
+}
